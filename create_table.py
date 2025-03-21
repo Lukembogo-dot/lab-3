@@ -5,7 +5,7 @@ conn = mysql.connector.connect(
     host="localhost",
     database="movies",
     user="root",  
-    password=" "  # Add your password
+    password="luke123"  # Add your password
 )
 
 # Create a cursor object
